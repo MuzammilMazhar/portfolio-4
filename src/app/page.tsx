@@ -19,8 +19,8 @@ export default function Home() {
       <h1 className="text-[10rem]">Hello</h1>
       <h1 className="text-[10rem]">Hello</h1>
       <h1 className="text-[10rem]">Hello</h1>
-      
-      <h1>Hello</h1>
+
+      <h1>Hello 0j</h1>
 
       <h2>hhwhw</h2>
       </div>
